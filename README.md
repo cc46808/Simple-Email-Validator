@@ -20,6 +20,8 @@ This script requires Python 3.7 or higher, and the following Python libraries:
 - time
 - sys
 
+## Installation
+
 You can install the required libraries using pip within the same directory:
 
 ```bash
