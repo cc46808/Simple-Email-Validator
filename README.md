@@ -20,6 +20,12 @@ This script requires Python 3.7 or higher, and the following Python libraries:
 - time
 - sys
 
+You can install the required libraries using pip within the same directory:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 
 Run the script from the command line, passing the path to the CSV file as a parameter:
